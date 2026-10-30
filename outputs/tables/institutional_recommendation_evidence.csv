@@ -1,0 +1,7 @@
+Institutional Requirement,Risk Parity Assessment,Evidence
+Capital Preservation,Strong,8.19% OOS volatility and lower crash exposure than Equal Weight
+VaR Model Credibility,Pass,"99% Historical VaR passes Kupiec, independence and conditional coverage"
+Stress Resilience,Strong,Stress rank 2 of 5
+Risk Diversification,Strong,Risk contributions approximately 31% / 35% / 35%
+Positive Risk-Adjusted Return,Positive,OOS Sharpe approximately 0.30
+Explainability,High,Simple three-asset allocation with transparent risk decomposition

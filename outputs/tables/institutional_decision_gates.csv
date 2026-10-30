@@ -1,0 +1,6 @@
+Portfolio,VaR Validation Gate,Positive OOS Sharpe Gate,Stress Top-3 Gate,Concentration Below 80% Gate,Number of Gates Passed
+Equal Weight Benchmark,True,True,False,True,3
+Best GMVP,True,False,True,False,2
+Best Maximum Sharpe,True,True,False,True,3
+Best Risk Parity,True,True,True,True,4
+Best Minimum ES,True,False,True,False,2

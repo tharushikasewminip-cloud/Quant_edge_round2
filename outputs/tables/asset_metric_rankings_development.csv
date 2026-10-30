@@ -1,0 +1,8 @@
+Ticker,Sharpe Rank,Sortino Rank,Calmar Rank,Drawdown Rank
+SPY,2.0,2.0,3.0,4.0
+EFA,6.0,6.0,6.0,5.0
+EEM,5.0,5.0,5.0,6.0
+AGG,3.0,3.0,1.0,1.0
+GLD,4.0,4.0,4.0,2.0
+XLE,7.0,7.0,7.0,7.0
+XLK,1.0,1.0,2.0,3.0

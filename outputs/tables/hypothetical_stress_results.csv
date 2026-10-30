@@ -1,0 +1,21 @@
+Scenario,Portfolio,Portfolio Shock Return
+Severe Equity Crash,Equal Weight Benchmark,-0.221428571495
+Severe Equity Crash,Best GMVP,0.022439943105000006
+Severe Equity Crash,Best Maximum Sharpe,-0.030929876210000005
+Severe Equity Crash,Best Risk Parity,-0.008125324265000004
+Severe Equity Crash,Best Minimum ES,0.024339525405000003
+Inflation and Rate Shock,Equal Weight Benchmark,-0.098571428601
+Inflation and Rate Shock,Best GMVP,-0.122362290591
+Inflation and Rate Shock,Best Maximum Sharpe,-0.116000119658
+Inflation and Rate Shock,Best Risk Parity,-0.10117372816
+Inflation and Rate Shock,Best Minimum ES,-0.12219946925099999
+Technology Sector Crash,Equal Weight Benchmark,-0.122857142894
+Technology Sector Crash,Best GMVP,0.011889105468999999
+Technology Sector Crash,Best Maximum Sharpe,-0.060069047845
+Technology Sector Crash,Best Risk Parity,-0.036710019953000016
+Technology Sector Crash,Best Minimum ES,0.013137402408999996
+Emerging Market Crisis,Equal Weight Benchmark,-0.132857142897
+Emerging Market Crisis,Best GMVP,0.027401116848
+Emerging Market Crisis,Best Maximum Sharpe,0.0036584457450000024
+Emerging Market Crisis,Best Risk Parity,0.015281463226000002
+Emerging Market Crisis,Best Minimum ES,0.028269497327999996

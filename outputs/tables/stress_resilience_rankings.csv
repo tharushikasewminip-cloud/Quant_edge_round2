@@ -1,0 +1,6 @@
+Portfolio,Historical Return Rank,Historical Drawdown Rank,Historical ES Rank,Hypothetical Worst-Shock Rank,Average Stress Rank,Overall Stress Rank
+Best GMVP,3.0,2.0,2.0,4.0,2.75,3.0
+Best Maximum Sharpe,4.0,4.0,4.0,2.0,3.5,4.0
+Best Minimum ES,2.0,1.0,1.0,3.0,1.75,1.0
+Best Risk Parity,1.0,3.0,3.0,1.0,2.0,2.0
+Equal Weight Benchmark,5.0,5.0,5.0,5.0,5.0,5.0

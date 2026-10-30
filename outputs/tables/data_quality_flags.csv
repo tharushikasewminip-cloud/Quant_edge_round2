@@ -1,0 +1,4 @@
+Date,Ticker,Flag,Value,Decision
+2008-10-13,EEM,Large daily move,0.22769852711290617,Retained - genuine market stress observation
+2008-10-28,EEM,Large daily move,0.209325738133316,Retained - genuine market stress observation
+2020-03-09,XLE,Large daily move,-0.2014117661843955,Retained - genuine market stress observation

@@ -1,0 +1,6 @@
+Portfolio,Number of Assets,Largest Weight,Largest Holding
+Equal Weight Benchmark,7,14.285714290000001,SPY
+Best GMVP,2,92.12569803000001,AGG
+Best Maximum Sharpe,3,65.22812130999999,AGG
+Best Risk Parity,3,65.45410719,AGG
+Best Minimum ES,2,92.66843582999999,AGG

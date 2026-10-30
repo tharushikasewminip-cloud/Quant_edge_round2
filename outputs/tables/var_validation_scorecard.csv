@@ -1,0 +1,5 @@
+Model,Confidence,Portfolios Tested,Kupiec Passes,Independence Passes,Conditional Coverage Passes
+Historical,0.95,5,3,4,5
+Historical,0.99,5,5,5,5
+Parametric Normal,0.95,5,4,4,4
+Parametric Normal,0.99,5,0,4,0

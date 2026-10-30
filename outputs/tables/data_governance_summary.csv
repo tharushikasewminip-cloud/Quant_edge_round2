@@ -1,0 +1,7 @@
+Check,Result
+Internal missing values,0
+Duplicate dates,0
+Non-positive prices,0
+Large move flags,3
+Potential stale-price runs,0
+Common observations,5513

@@ -1,0 +1,12 @@
+Metric,Result
+Recommended Portfolio,Best Risk Parity
+AGG Weight,65.45%
+GLD Weight,17.79%
+XLK Weight,16.76%
+OOS Annualized Return,6.51%
+OOS Volatility,8.19%
+OOS Sharpe Ratio,0.30
+OOS Maximum Drawdown,-17.11%
+Stress Rank,2
+99% Historical VaR Validation,True
+Latest Basel Zone,Green
